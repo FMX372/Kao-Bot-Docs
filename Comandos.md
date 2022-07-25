@@ -8,9 +8,9 @@
 
 ## Moderación
 
->En todos los comandos de moderación relacionados con un usuario puedes añadir "id" y podrás realizar esa acción con la id del usuario en vez de mencionándolo
+>En todos los comandos de moderación relacionados con un usuario puedes tanto como mencionarlo como usar su ID
 
->Ejemplo: k!ban [mención] [razón] == k!banid [ID usuario] [razón]
+>Ejemplo: k!ban [mención] [razón] == k!ban [ID usuario] [razón]
 
 - k!silenciar [mención] [razón]
 >Silencia a un usuario con una razón - `Necesitas tener un rol ya hecho para esto`
