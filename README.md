@@ -4,8 +4,6 @@
 
 Un bot de discord simple que decidí crear para una amiga y aprender lo básico :D
 
->Puedes ir a `Kao_Bot.py` para ver el código ↑
-
 >En `Comandos.md` puedes ver los comandos que puede ejecutar el bot ↑
 
 
