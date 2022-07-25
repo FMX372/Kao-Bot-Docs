@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/988332902456631359/998944496056291418/KaoGit.png)
+![Logo](https://cdn.discordapp.com/attachments/990272036079276052/1001135875310239854/BannerGithub.png)
 
 # Sobre Kao Bot - `Beta v1.8`
 
