@@ -55,6 +55,9 @@
 - k!pon [URL Youtube]
 >Reproduce la canción de la URL
 
+- k!cola
+>Muestra las canciones en espera
+
 - k!salir
 >Hace que el bot salga de tu canal de voz
 
