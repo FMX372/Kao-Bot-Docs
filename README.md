@@ -1,6 +1,6 @@
 ![Logo](https://cdn.discordapp.com/attachments/990272036079276052/1001135875310239854/BannerGithub.png)
 
-# Sobre Kao Bot - `Beta v1.8`
+# Sobre Kao Bot - `Beta v1.9`
 
 Un bot de discord simple que decidí crear para una amiga y aprender lo básico :D
 
