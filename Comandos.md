@@ -65,7 +65,7 @@
 - k!hola
 >¡Holi!
 
-- k!preguntar [pregunta]
+- k!pregunta [pregunta]
 >¡Pregunta algo y deja que la gente de me gusta o no me gusta!
 
 - k!info [mención]
