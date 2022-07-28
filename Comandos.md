@@ -25,7 +25,7 @@
 >Banea a un miembro del servidor
 
 - k!purgar [número de mensajes]
->Borra mensajes en masa, el default es 11 (borraría 10 mensajes ya que también borra el comando de ejecución)
+>Borra mensajes en masa, el default es 10
 
 ## Perfiles
 >La gente puede hablar sobre ella y dejar sus gustos.
